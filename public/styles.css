@@ -8,6 +8,8 @@ ul {
 
 li {
   float: left;
+  background-color: rgb(53, 184, 82);
+  cursor: pointer;
 }
 
 li a {
